@@ -1,0 +1,28 @@
+{
+  "name": "bamboo",
+  "displayName": "bamboo",
+  "description": "a theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bamboo",
+        "uiTheme": "vs",
+        "path": "./themes/bamboo-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "bamboo",
+        "label": "bamboo icons",
+        "path": "./fileicons/bamboo-icon-theme.json"
+      }
+    ]
+  }
+}

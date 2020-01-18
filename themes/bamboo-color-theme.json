@@ -19,7 +19,8 @@
     "list.activeSelectionBackground": "#3f8ffa",
     "list.activeSelectionForeground": "#fff",
     "list.hoverBackground": "#f2f2f2",
-    "list.errorForeground": "#e09224",
+    "list.errorForeground": "#ff6347",
+    "list.warningForeground": "#e09224",
 
     "errorForeground": "#e09224",
     "editorError.foreground": "#e09224",
@@ -33,7 +34,8 @@
     "editor.findMatchHighlightBackground": "#fffb173b",
     "editor.findMatchBackground": "#ffffff00",
 
-    "editorLightBulb.foreground": "#e0cd24",
+    "editorLightBulbAutoFix.foreground": "#3f8ffa",
+    "editorLightBulb.foreground": "#e09224",
 
     "editorWidget.background": "#f6f6f6",
     "editorWidget.border": "#bab5b5",
@@ -56,8 +58,13 @@
     "minimap.findMatchHighlight": "#3f8ffa",
     "minimap.selectionHighlight": "#3f8ffa",
 
-    "statusBar.background": "#f3f3f3",
-    "statusBar.foreground": "#8f8c8c",
+    "statusBar.background": "#1b8cff",
+    "statusBar.foreground": "#e0effc",
+
+    "badge.background": "#1b8cff00",
+    "badge.foreground": "#1b8cff",
+
+    "progressBar.background": "#1b8cff",
 
     "editorIndentGuide.background": "#e0e0e0",
     "editorIndentGuide.activeBackground": "#3f8ffa",
@@ -83,7 +90,10 @@
 
     "scrollbarSlider.background": "#c0c0c06b",
     "scrollbarSlider.activeBackground": "#8f8c8c6b",
-    "scrollbarSlider.hoverBackground": "#8f8c8c6b"
+    "scrollbarSlider.hoverBackground": "#8f8c8c6b",
+
+    "editor.snippetTabstopHighlightBackground": "#e092241c",
+    "editor.snippetFinalTabstopHighlightBackground": "#e092241c"
   },
   "tokenColors": [
     {

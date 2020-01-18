@@ -13,9 +13,13 @@
     "list.activeSelectionBackground": "#0069d9",
     "list.activeSelectionForeground": "#fff",
     "list.hoverBackground": "#f2f2f2",
+    "list.errorForeground": "#f10520",
+
+    "errorForeground": "#f10520",
+    "editorError.foreground": "#f10520",
 
     "editor.background": "#fff",
-    "editor.foreground": "#303030",
+    "editor.foreground": "#8f8c8c",
     "editor.lineHighlightBorder": "#ffffff",
     "editor.selectionBackground": "#0069d91c",
 
@@ -58,9 +62,9 @@
     "gitDecoration.submoduleResourceForeground": "#676767",
     "gitDecoration.untrackedResourceForeground": "#676767",
 
-    "scrollbarSlider.background": "#e0e0e0",
-    "scrollbarSlider.activeBackground": "#8f8c8c",
-    "scrollbarSlider.hoverBackground": "#8f8c8c"
+    "scrollbarSlider.background": "#c0c0c06b",
+    "scrollbarSlider.activeBackground": "#8f8c8c6b",
+    "scrollbarSlider.hoverBackground": "#8f8c8c6b"
   },
   "tokenColors": [
     {
@@ -319,7 +323,7 @@
       "name": "CSS: Property Names",
       "scope": ["meta.property-name", "support.type.property-name"],
       "settings": {
-        "foreground": "#AB6526"
+        "foreground": "#297dc2"
       }
     },
     {

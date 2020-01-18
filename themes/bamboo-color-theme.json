@@ -9,6 +9,8 @@
 
     "focusBorder": "#ff000000",
 
+    "button.background": "#0069d9",
+
     "list.inactiveSelectionBackground": "#dddddd",
     "list.activeSelectionBackground": "#0069d9",
     "list.activeSelectionForeground": "#fff",

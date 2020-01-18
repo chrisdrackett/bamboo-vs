@@ -2,25 +2,62 @@
   "name": "bamboo",
   "type": "light",
   "colors": {
-    "editor.background": "#ffffff",
+    "activityBar.activeBorder": "#2c2c2c",
+    "activityBar.foreground": "#e0e0e0",
+    "activityBarBadge.background": "#0069d9",
+    "activityBarBadge.foreground": "#e0e0e0",
+
+    "focusBorder": "#ff000000",
+
+    "list.inactiveSelectionBackground": "#dddddd",
+    "list.activeSelectionBackground": "#0069d9",
+    "list.activeSelectionForeground": "#fff",
+    "list.hoverBackground": "#f2f2f2",
+
+    "editor.background": "#fff",
     "editor.foreground": "#303030",
-    "editorCursor.foreground": "#0069d9",
-    "editorLineNumber.foreground": "#ececec",
-    "editorLineNumber.activeForeground": "#b0b0b0",
     "editor.lineHighlightBorder": "#ffffff",
     "editor.selectionBackground": "#0069d91c",
+
+    "editor.rangeHighlightBackground": "#fffb173b",
+    "editor.findMatchHighlightBackground": "#fffb173b",
+    "editor.findMatchBackground": "#ffffff00",
+
+    "editorLightBulb.foreground": "#fc6d24",
+
+    "panel.background": "#f3f3f3",
+    "panel.border": "#bab5b5",
+    "panelTitle.activeBorder": "#0069d9",
+
+    "editorCursor.foreground": "#0069d9",
+
+    "editorLineNumber.foreground": "#ececec",
+    "editorLineNumber.activeForeground": "#b0b0b0",
+
     "minimap.findMatchHighlight": "#0069d9",
     "minimap.selectionHighlight": "#0069d9",
+
     "statusBar.background": "#f3f3f3",
     "statusBar.foreground": "#8f8c8c",
+
     "editorIndentGuide.background": "#e0e0e0",
     "editorIndentGuide.activeBackground": "#0069d9",
+
     "sideBar.background": "#f2f2f2",
     "sideBar.foreground": "#676767",
     "sideBar.border": "#bab5b5",
-    "gitDecoration.modifiedResourceForeground": "#676767",
+
     "sideBarSectionHeader.background": "#fff",
     "sideBarSectionHeader.border": "#e3e1e1",
+
+    "gitDecoration.modifiedResourceForeground": "#676767",
+    "gitDecoration.addedResourceForeground": "#676767",
+    "gitDecoration.conflictingResourceForeground": "#676767",
+    "gitDecoration.deletedResourceForeground": "#676767",
+    "gitDecoration.ignoredResourceForeground": "#676767",
+    "gitDecoration.submoduleResourceForeground": "#676767",
+    "gitDecoration.untrackedResourceForeground": "#676767",
+
     "scrollbarSlider.background": "#e0e0e0",
     "scrollbarSlider.activeBackground": "#8f8c8c",
     "scrollbarSlider.hoverBackground": "#8f8c8c"

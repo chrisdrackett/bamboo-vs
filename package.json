@@ -1,7 +1,9 @@
 {
   "name": "bamboo",
-  "displayName": "bamboo",
-  "description": "a theme.",
+  "displayName": "Bamboo UI",
+  "description": "Bamboo theme for VSCode",
+  "publisher": "TiltShift",
+  "repository": "git@github.com:chrisdrackett/bamboo-vs.git",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.41.0"

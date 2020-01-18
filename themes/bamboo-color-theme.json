@@ -4,21 +4,25 @@
   "colors": {
     "activityBar.activeBorder": "#2c2c2c",
     "activityBar.foreground": "#e0e0e0",
-    "activityBarBadge.background": "#0069d9",
+    "activityBarBadge.background": "#3f8ffa",
     "activityBarBadge.foreground": "#e0e0e0",
 
     "focusBorder": "#ff000000",
 
-    "button.background": "#0069d9",
+    "button.background": "#3f8ffa",
+
+    "extensionButton.prominentBackground": "#3f8ffa",
+    "extensionButton.prominentForeground": "#f6f6f6",
+    "extensionButton.prominentHoverBackground": "#1a7bfa",
 
     "list.inactiveSelectionBackground": "#dddddd",
-    "list.activeSelectionBackground": "#0069d9",
+    "list.activeSelectionBackground": "#3f8ffa",
     "list.activeSelectionForeground": "#fff",
     "list.hoverBackground": "#f2f2f2",
-    "list.errorForeground": "#f10520",
+    "list.errorForeground": "#e09224",
 
-    "errorForeground": "#f10520",
-    "editorError.foreground": "#f10520",
+    "errorForeground": "#e09224",
+    "editorError.foreground": "#e09224",
 
     "editor.background": "#fff",
     "editor.foreground": "#8f8c8c",
@@ -29,25 +33,34 @@
     "editor.findMatchHighlightBackground": "#fffb173b",
     "editor.findMatchBackground": "#ffffff00",
 
-    "editorLightBulb.foreground": "#fc6d24",
+    "editorLightBulb.foreground": "#e0cd24",
+
+    "editorWidget.background": "#f6f6f6",
+    "editorWidget.border": "#bab5b5",
+    "editorWidget.foreground": "#676767",
+
+    "editorSuggestWidget.background": "#f6f6f6",
+    "editorSuggestWidget.border": "#bab5b5",
+    "editorSuggestWidget.foreground": "#676767",
+    "editorSuggestWidget.selectedBackground": "#0069d91c",
 
     "panel.background": "#f3f3f3",
     "panel.border": "#bab5b5",
-    "panelTitle.activeBorder": "#0069d9",
+    "panelTitle.activeBorder": "#3f8ffa",
 
-    "editorCursor.foreground": "#0069d9",
+    "editorCursor.foreground": "#3f8ffa",
 
     "editorLineNumber.foreground": "#ececec",
     "editorLineNumber.activeForeground": "#b0b0b0",
 
-    "minimap.findMatchHighlight": "#0069d9",
-    "minimap.selectionHighlight": "#0069d9",
+    "minimap.findMatchHighlight": "#3f8ffa",
+    "minimap.selectionHighlight": "#3f8ffa",
 
     "statusBar.background": "#f3f3f3",
     "statusBar.foreground": "#8f8c8c",
 
     "editorIndentGuide.background": "#e0e0e0",
-    "editorIndentGuide.activeBackground": "#0069d9",
+    "editorIndentGuide.activeBackground": "#3f8ffa",
 
     "sideBar.background": "#f2f2f2",
     "sideBar.foreground": "#676767",
@@ -55,6 +68,10 @@
 
     "sideBarSectionHeader.background": "#fff",
     "sideBarSectionHeader.border": "#e3e1e1",
+
+    "editorGutter.modifiedBackground": "#e09224",
+    "editorGutter.deletedBackground": "#ff6347",
+    "editorGutter.addedBackground": "#8bc34a",
 
     "gitDecoration.modifiedResourceForeground": "#676767",
     "gitDecoration.addedResourceForeground": "#676767",

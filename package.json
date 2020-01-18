@@ -4,7 +4,7 @@
   "description": "Bamboo theme for VSCode",
   "publisher": "TiltShift",
   "repository": "git@github.com:chrisdrackett/bamboo-vs.git",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.41.0"
   },
@@ -26,5 +26,8 @@
         "path": "./fileicons/bamboo-icon-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "publish": "vsce package"
   }
 }

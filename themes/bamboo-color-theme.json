@@ -93,7 +93,26 @@
     "scrollbarSlider.hoverBackground": "#8f8c8c6b",
 
     "editor.snippetTabstopHighlightBackground": "#e092241c",
-    "editor.snippetFinalTabstopHighlightBackground": "#e092241c"
+    "editor.snippetFinalTabstopHighlightBackground": "#e092241c",
+
+    "terminal.background": "#282c34",
+    "terminal.foreground": "#abb2bf",
+    "terminal.ansiBlack": "#ff0000",
+    "terminal.ansiBlue": "#56b6c2",
+    "terminal.ansiBrightBlack": "#808080",
+    "terminal.ansiBrightBlue": "#56b6c2",
+    "terminal.ansiBrightCyan": "#56b6c2",
+    "terminal.ansiBrightGreen": "#19f9d8",
+    "terminal.ansiBrightMagenta": "#ff75B5",
+    "terminal.ansiBrightRed": "#e06c75",
+    "terminal.ansiBrightWhite": "#ffffff",
+    "terminal.ansiBrightYellow": "#ffcc95",
+    "terminal.ansiCyan": "#56b6c2",
+    "terminal.ansiGreen": "#98c379",
+    "terminal.ansiMagenta": "#c678dd",
+    "terminal.ansiRed": "#ff2c6d",
+    "terminal.ansiWhite": "#d0d0d0",
+    "terminal.ansiYellow": "#d19a66"
   },
   "tokenColors": [
     {

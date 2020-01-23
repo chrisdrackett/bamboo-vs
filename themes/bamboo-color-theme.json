@@ -22,13 +22,18 @@
     "list.errorForeground": "#ff6347",
     "list.warningForeground": "#e09224",
 
-    "errorForeground": "#e09224",
-    "editorError.foreground": "#e09224",
+    "editorWarning.foreground": "#e09224",
+    "errorForeground": "#ff6347",
+    "editorError.foreground": "#ff6347",
+
+    "editorUnnecessaryCode.opacity": "#000000ab",
 
     "editor.background": "#fff",
     "editor.foreground": "#8f8c8c",
     "editor.lineHighlightBorder": "#ffffff",
     "editor.selectionBackground": "#0069d91c",
+
+    "editorLink.activeForeground": "#1a7bfa",
 
     "editor.rangeHighlightBackground": "#fffb173b",
     "editor.findMatchHighlightBackground": "#fffb173b",
